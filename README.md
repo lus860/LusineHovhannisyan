@@ -44,7 +44,12 @@
 <h3 align="center">A passionate a Backend developer from Armenia 🇦🇲 </h3>
 <img src="https://static.swissdevjobs.ch/pictures/software-developer-germany.svg" align="right" alt="Girl in a jacket"
      width="400">
-
+<ul dir="auto" align="left">
+<li>👉 Web Developer at Esterox</li>
+<li>👉 I am a backend developer at Esterox</li>
+<li>👉 I am developing web applications using PHP frameworks and Javascript</li>
+<li>📫How to reach me: <a href="https://linkedin.com" rel="nofollow"><img src="https://camo.githubusercontent.com/64514a415af03a0f7958012ed1893f4519da9dc16aa32cb5d9c55240d7b8c945/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564696e2d626c75653f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/Linkedin-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a></li>
+</ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/lusine-hovhannisyan-b74b511a1/" rel="nofollow">
