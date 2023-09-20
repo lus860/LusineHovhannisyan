@@ -41,7 +41,7 @@
     </div>
 </div>
 <h1 align="center">Hi 👋, I'm Lusine Hovhannisyan</h1>
-<h3 align="center">A passionate a Backend developer from Armenia</h3>
+<h3 align="center">A passionate a Backend developer from Armenia 🇦🇲 </h3>
 <img src="https://static.swissdevjobs.ch/pictures/software-developer-germany.svg" align="right" alt="Girl in a jacket"
      width="400">
 
