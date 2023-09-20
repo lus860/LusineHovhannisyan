@@ -1,3 +1,5 @@
+<img src="https://static.swissdevjobs.ch/pictures/software-developer-germany.svg" align="rigth" alt="Girl in a jacket" width="400">
+
 <h1 align="center">Hi 👋, I'm Lusine Hovhannisyan</h1>
 <h3 align="center">A passionate a Backend developer from Armenia</h3>
 
