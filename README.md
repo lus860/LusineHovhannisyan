@@ -48,18 +48,8 @@
 <li>👉 Web Developer at Esterox</li>
 <li>👉 I am a backend developer at Esterox</li>
 <li>👉 I am developing web applications using PHP frameworks and Javascript</li>
-<li>📫How to reach me: <a href="https://linkedin.com" rel="nofollow"><img src="https://camo.githubusercontent.com/64514a415af03a0f7958012ed1893f4519da9dc16aa32cb5d9c55240d7b8c945/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564696e2d626c75653f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/Linkedin-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a></li>
+<li>📫How to reach me: <a href="https://www.linkedin.com/in/lusine-hovhannisyan-b74b511a1/" rel="nofollow"><img src="https://camo.githubusercontent.com/64514a415af03a0f7958012ed1893f4519da9dc16aa32cb5d9c55240d7b8c945/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564696e2d626c75653f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/Linkedin-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a></li>
 </ul>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://www.linkedin.com/in/lusine-hovhannisyan-b74b511a1/" rel="nofollow">
-        <img
-            src="https://camo.githubusercontent.com/e0278098417dddf9727cfee70a5eb84af38a20705b3bded56cf91cb5feb29d7d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"
-            alt="LinkedIn Badge"
-            data-canonical-src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
-            style="max-width: 100%;">
-    </a>
-</p>
 <h3 dir="auto" align="left"><a id="user-content-computer-languages-frameworks-and-libraries" class="anchor" aria-hidden="true" tabindex="-1" href="#computer-languages-frameworks-and-libraries"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>💻 Languages, Frameworks, and Libraries:</h3>
 <div dir="auto" align="left">
     <div dir="auto">
